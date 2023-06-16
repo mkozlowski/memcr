@@ -18,6 +18,8 @@
 
 #define _GNU_SOURCE
 
+/* test */
+
 #include <stdio.h>
 #include <sys/types.h>
 #include <unistd.h>
